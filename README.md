@@ -1,6 +1,12 @@
-# STEMINSTITUTE2020
+# STEM INSTITUTE 2020
+
+## People 
+
+[Staff & Speakers directory](https://docs.google.com/presentation/d/1Dd6SP18gxQ_ah0ryxrrEfqT_bKgAaz3wzwACqVK81sk/edit?usp=sharing)
 
 ## Google Colab slides
+
+[Slides](https://drive.google.com/file/d/1WQQcuEWbzwe_rlfRMxnfXoWI4e2QwSNf/view?usp=sharing)
 
 ## Design thinking
 
@@ -8,9 +14,13 @@
 
 ## Data
 
+
+
 ## Project
 
 ## Communications
+
+Via Slack [https://pacestem2020.slack.com](https://pacestem2020.slack.com/)
 
 ## Calendars
 
