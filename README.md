@@ -10,7 +10,19 @@
 
 ## Design thinking
 
-(Murals)
+### Murals
+  - [ICE-BREAKER](https://bit.ly/ssi-icebreaker)
+  - For team work:
+    - [Team 1](https://bit.ly/ssi-team1-m)
+    - [Team 2](https://bit.ly/ssi-team2-m)
+    - [Team 3](https://bit.ly/ssi-team3-m)
+    - [Team 4](https://bit.ly/ssi-team4-m)
+    - [Team 5](https://bit.ly/ssi-team5-m)
+    - [Team 6](https://bit.ly/ssi-team6-m)
+    - [Team 7](https://bit.ly/ssi-team7-m)
+    - [Team 8](https://bit.ly/ssi-team8-m)
+    - [Team 9](https://bit.ly/ssi-team9-m)
+    - [Team 10](https://bit.ly/ssi-team10-m)
 
 ## Data
 
