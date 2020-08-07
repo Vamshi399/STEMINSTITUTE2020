@@ -11,11 +11,12 @@
 ## Design thinking
 
 ### Murals
-  - [ICE-BREAKER](https://bit.ly/ssi-icebreaker)
+  - [Ice breaker activity](https://bit.ly/ssi-icebreaker)
 
 ## Data
 
 https://github.com/fparisi/STEM-2019/blob/59abd8c8e10b251a77d8cca49b21d6f9f3bd75b0/2018expeditions.csv
+
 
 ## Project
 
