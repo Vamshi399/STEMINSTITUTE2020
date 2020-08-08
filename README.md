@@ -13,11 +13,12 @@ Slides TBA
 
 ## Data
 
-[Sample data](http://bit.ly/STEM-2019-Sample_Data) (2018expeditions.csv file) (20 expeditions) - To be used during sessions
+To get the data, go to: https://github.com/PACESTEM/STEMINSTITUTE2020 and clone the 
+[Sample data](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/2018expeditions.csv) (2018expeditions.csv file) (20 expeditions) - To be used during sessions
 
-[] (1097 expeditions) - To be used for the project 
+[BOP data](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/bop_data_retrivedbyian.csv) (bop_data_retrivedbyian.csv file) (1097 expeditions) - To be used for the project 
 
-[(Cleaner) data from 2016 to 2019](https://drive.google.com/file/d/1GwmspLZM-6TLKmAkZnlLrijFnzqdU5iM/view?usp=sharing) (7594 expeditions) - To be used for the project
+[(Cleaner) data from 2016 to 2019](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/bop_data_2016_2019.csv) (bop_data_2016_2019.csv file) (7594 expeditions) - To be used for the project
 
 ## Project
 
