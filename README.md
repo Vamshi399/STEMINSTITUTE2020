@@ -1,34 +1,47 @@
 # STEM INSTITUTE 2020
 
-## People 
-
-[Staff & Speakers directory](https://docs.google.com/presentation/d/1Dd6SP18gxQ_ah0ryxrrEfqT_bKgAaz3wzwACqVK81sk/edit?usp=sharing)
-
 ## Google Colab slides
 
 [Slides](https://drive.google.com/file/d/1WQQcuEWbzwe_rlfRMxnfXoWI4e2QwSNf/view?usp=sharing)
 
 ## Design thinking
 
+Slides TBA
+
 ### Murals
   - [Ice breaker activity](https://bit.ly/ssi-icebreaker)
 
 ## Data
 
-https://github.com/fparisi/STEM-2019/blob/59abd8c8e10b251a77d8cca49b21d6f9f3bd75b0/2018expeditions.csv
+[Sample data](http://bit.ly/STEM-2019-Sample_Data) (2018expeditions.csv file) (20 expeditions) - To be used during sessions
 
+[] (1097 expeditions) - To be used for the project 
+
+[(Cleaner) data from 2016 to 2019](https://drive.google.com/file/d/1GwmspLZM-6TLKmAkZnlLrijFnzqdU5iM/view?usp=sharing) (7594 expeditions) - To be used for the project
 
 ## Project
+
+Material TBA
 
 ## Communications
 
 Via Slack [https://pacestem2020.slack.com](https://pacestem2020.slack.com/)
 
-## Calendars
+## Zoom meetings
+
+[Links and phone numbers](https://docs.google.com/document/d/1eay-ZTriag5_9eLN7JiN3pPJ1GByskYk6yvFqJDUXLo/edit?usp=sharing)
+
+## Schedule and calendars
+
+[Schedule](https://docs.google.com/spreadsheets/d/10nu_X2nyMZvkJmXlpC4EaiY0ERrU4NtaYizOmxXL4K8/edit?usp=sharing)
 
 [Group1](https://calendar.google.com/calendar?cid=Z284cjJ2Z2JtdG5nMWkxM3E2NDBmMWViYmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-[Group2]()
+[Group2](https://calendar.google.com/calendar?cid=a2U2azQycHA3OWxna2FrMHA5aGc1dnNuNm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+## People 
+
+[Staff & Speakers directory](https://docs.google.com/presentation/d/1Dd6SP18gxQ_ah0ryxrrEfqT_bKgAaz3wzwACqVK81sk/edit?usp=sharing)
 
 ## Resources
 
@@ -36,13 +49,35 @@ Via Slack [https://pacestem2020.slack.com](https://pacestem2020.slack.com/)
 
 [Learn Python](https://www.learnpython.org)
 
-### Data science
+[numpy](https://www.learnpython.org/en/Numpy_Arrays)
 
-### Billion Oyster Project
+[pandas](https://www.learnpython.org/en/Pandas_Basics)
 
-[How the Billion Oyster Project Got Started](https://youtu.be/bIre6IK1YxQ)
+### Data Science
 
-[BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
+[Video: What is Data Science? DS 101](https://www.youtube.com/watch?v=z1kPKBdYks4)
+
+[Video: What is Data Sciene?](https://youtu.be/X3paOmcrTjQ)
+
+### Design Thinking
+
+[Video: Explainer: What is Design Thinking?](https://www.youtube.com/watch?v=_WI3B54m6SU)
+
+[Design Thinking at IDEO](https://www.ideou.com/pages/design-thinking)
+
+### Billion Oyster Project (BOP)
+
+[Video: How the Billion Oyster Project Got Started](https://youtu.be/bIre6IK1YxQ)
+
+[Video: BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
+
+[BOP Remote Learning Resources](https://www.billionoysterproject.org/remote-learning)
+
+[BOP Platform](https://platform.bop.nyc/expeditions/data)
+
+[Data How to Guide](https://github.com/BillionOysterProject/docs/wiki/Data-How-To-Guide)
+
+[Digital Platform User Guide Table of Contents](https://github.com/BillionOysterProject/docs/wiki/Digital-Platform-User-Guide-Table-of-Contents)
 
 ## Students' work
 
