@@ -16,17 +16,11 @@
 ## Tools
 
 * Instruction - Zoom
-
 * Communication - Slack
-
 * Documentation - GitHub
-
 * Exploration of the data - Excel
-
 * Code - Python, Google Colab, GitHub
-
 * Design thinking - Mural
-
 * Presentation - Google Docs
 
 ## Google Colab slides
