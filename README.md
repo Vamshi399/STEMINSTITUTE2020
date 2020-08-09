@@ -1,5 +1,18 @@
 # STEM INSTITUTE 2020
 
+## Objectives
+
+- Be more knowledgeable about the Billion Oyster Project
+- Be more knowledgeable about what Data Science is
+- Be introduced to basic statistics
+- Be familiar with the Python language fundamentals 
+- Be familiar with the most common Python data structures and libraries for Data Science
+- Be able to create visualizations with Python
+- Be able to use Python to carry out basic statistical modeling and analysis
+- Be familiar with Design Thinking
+- Have developed teamwork and communication skills
+- Have applied knowledge on a project based on real data
+
 ## Tools
 
 * Instruction - Zoom
