@@ -62,6 +62,10 @@
 
 * [Video: What is Data Sciene?](https://youtu.be/X3paOmcrTjQ)
 
+### Statistics
+
+* [Introductory Statistics Book](https://openstax.org/details/books/introductory-statistics)
+
 ### Design Thinking
 
 * [Video: Explainer: What is Design Thinking?](https://www.youtube.com/watch?v=_WI3B54m6SU)
