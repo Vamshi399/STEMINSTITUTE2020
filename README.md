@@ -1,5 +1,7 @@
 # STEM INSTITUTE 2020
 
+![logostem2020](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/logostem2020.png)
+
 ## Objectives
 
 - Be more knowledgeable about the Billion Oyster Project
