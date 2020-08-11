@@ -28,6 +28,7 @@
 ## Google Colab slides
 
 * [Slides](https://drive.google.com/file/d/1WQQcuEWbzwe_rlfRMxnfXoWI4e2QwSNf/view?usp=sharing)
+* Edgar Allan Poe text http://webpage.pace.edu/fparisi/STEM-2020/Python/poe.txt
 
 ## Likes and dislikes
 
