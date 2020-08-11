@@ -41,7 +41,7 @@
 
 ## Presentations
 
-* Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. [Slides](https://educationonair.withgoogle.com/events/anywhereschool2020/schedule?talk=amer-keynote)
+* Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. [Slides](https://docs.google.com/presentation/d/1TKxkSpPoYSH3IW7vy0Qdzj10VNR3K3VnQZzfJ4RID0E/edit?ts=5f32a779#slide=id.p)
 
 ## Data
 
