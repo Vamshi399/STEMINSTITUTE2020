@@ -29,22 +29,20 @@
 
 * [Slides](https://drive.google.com/file/d/1WQQcuEWbzwe_rlfRMxnfXoWI4e2QwSNf/view?usp=sharing)
 
+## Likes and dislikes
+
+* [Mural on likes and dislikes](https://app.mural.co/signin?email=cscharff@pace.edu&returnUrl=/t/nycdesignfactory1093/m/nycdesignfactory1093/1597074711933)
+
 ## Design thinking
 
 * Slides TBA
-
-### Murals
-
 * [Ice breaker activity](https://bit.ly/ssi-icebreaker)
 
 ## Data
 
 * Data are [here](https://drive.google.com/drive/folders/1EF0EUTior7hIFgv_HBu80L3dimEYRVYm?usp=sharing). You can also the data [here](https://github.com/PACESTEM/STEMINSTITUTE2020) and clone the repository. 
-
 * [Sample data](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/2018expeditions.csv) (2018expeditions.csv file) (20 expeditions) - To be used during sessions
-
-* [BOP data](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/bop_data_retrivedbyian.csv) (bop_data_retrivedbyian.csv file) (1097 expeditions) - To be used for the project 
-
+* [BOP data](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/bop_data_retrivedbyian.csv) (bop_data_retrivedbyian.csv file) (1097 expeditions) - To be used for the project
 * [(Cleaner) data from 2016 to 2019](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/bop_data_2016_2019.csv) (bop_data_2016_2019.csv file) (7594 expeditions) - To be used for the project
 
 ## Project
@@ -62,9 +60,7 @@
 ## Schedule and calendars
 
 * [Schedule](https://docs.google.com/spreadsheets/d/10nu_X2nyMZvkJmXlpC4EaiY0ERrU4NtaYizOmxXL4K8/edit?usp=sharing)
-
 * [Group1](https://calendar.google.com/calendar?cid=Z284cjJ2Z2JtdG5nMWkxM3E2NDBmMWViYmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
 * [Group2](https://calendar.google.com/calendar?cid=a2U2azQycHA3OWxna2FrMHA5aGc1dnNuNm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ## People 
@@ -76,15 +72,12 @@
 ### Python
 
 * [Learn Python](https://www.learnpython.org)
-
 * [numpy](https://www.learnpython.org/en/Numpy_Arrays)
-
 * [pandas](https://www.learnpython.org/en/Pandas_Basics)
 
 ### Data Science
 
 * [Video: What is Data Science? DS 101](https://www.youtube.com/watch?v=z1kPKBdYks4)
-
 * [Video: What is Data Sciene?](https://youtu.be/X3paOmcrTjQ)
 
 ### Statistics
@@ -94,21 +87,15 @@
 ### Design Thinking
 
 * [Video: Explainer: What is Design Thinking?](https://www.youtube.com/watch?v=_WI3B54m6SU)
-
 * [Design Thinking at IDEO](https://www.ideou.com/pages/design-thinking)
 
 ### Billion Oyster Project (BOP)
 
 * [Video: How the Billion Oyster Project Got Started](https://youtu.be/bIre6IK1YxQ)
-
 * [Video: BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
-
 * [BOP Remote Learning Resources](https://www.billionoysterproject.org/remote-learning)
-
 * [BOP Platform](https://platform.bop.nyc/expeditions/data)
-
 * [Data How to Guide](https://github.com/BillionOysterProject/docs/wiki/Data-How-To-Guide)
-
 * [Digital Platform User Guide Table of Contents](https://github.com/BillionOysterProject/docs/wiki/Digital-Platform-User-Guide-Table-of-Contents)
 
 ## Students' work
