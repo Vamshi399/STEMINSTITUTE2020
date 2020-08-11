@@ -38,6 +38,10 @@
 * Slides TBA
 * [Ice breaker activity](https://bit.ly/ssi-icebreaker)
 
+## Presentations
+
+* Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. [Slides](https://educationonair.withgoogle.com/events/anywhereschool2020/schedule?talk=amer-keynote)
+
 ## Data
 
 * Data are [here](https://drive.google.com/drive/folders/1EF0EUTior7hIFgv_HBu80L3dimEYRVYm?usp=sharing). You can also the data [here](https://github.com/PACESTEM/STEMINSTITUTE2020) and clone the repository. 
