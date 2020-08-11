@@ -32,7 +32,7 @@
 
 ## Likes and dislikes
 
-* [Mural on likes and dislikes](https://app.mural.co/signin?email=cscharff@pace.edu&returnUrl=/t/nycdesignfactory1093/m/nycdesignfactory1093/1597074711933)
+* [Mural on likes and dislikes](https://bit.ly/ssi-feedback)
 
 ## Design thinking
 
