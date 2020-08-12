@@ -97,6 +97,7 @@
 ### Billion Oyster Project (BOP)
 
 * What is BOP?
+  * [BOP web site](https://www.billionoysterproject.org)
   * [Video: How the Billion Oyster Project Got Started](https://youtu.be/bIre6IK1YxQ)
   * [Video: BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
 * Learning resources
