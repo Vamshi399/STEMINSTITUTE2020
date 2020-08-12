@@ -116,21 +116,31 @@ Presentations, code, murals etc.
 
 * Team 1
   * [Mural](https://bit.ly/ssi-team1-m)
+  * [Allan Poe Exercise]()
 * Team 2
   * [Mural](https://bit.ly/ssi-team2-m)
+  * [Allan Poe Exercise]()
 * Team 3
   * [Mural](https://bit.ly/ssi-team3-m)
+  * [Allan Poe Exercise]()
 * Team 4
   * [Mural](https://bit.ly/ssi-team4-m)
+  * [Allan Poe Exercise]()
 * Team 5
   * [Mural](https://bit.ly/ssi-team5-m)
+  * [Allan Poe Exercise]()
 * Team 6
   * [Mural](https://bit.ly/ssi-team6-m)
+  * [Allan Poe Exercise]()
 * Team 7
   * [Mural](https://bit.ly/ssi-team7-m)
+  * [Allan Poe Exercise]()
 * Team 8
   * [Mural](https://bit.ly/ssi-team8-m)
+  * [Allan Poe Exercise]()
 * Team 9
   * [Mural](https://bit.ly/ssi-team9-m)
+  * [Allan Poe Exercise]()
 * Team 10
   * [Mural](https://bit.ly/ssi-team10-m)
+  * [Allan Poe Exercise]()
