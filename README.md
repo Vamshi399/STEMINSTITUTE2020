@@ -96,12 +96,18 @@
 
 ### Billion Oyster Project (BOP)
 
-* [Video: How the Billion Oyster Project Got Started](https://youtu.be/bIre6IK1YxQ)
-* [Video: BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
-* [BOP Remote Learning Resources](https://www.billionoysterproject.org/remote-learning)
-* [BOP Platform](https://platform.bop.nyc/expeditions/data)
-* [Data How to Guide](https://github.com/BillionOysterProject/docs/wiki/Data-How-To-Guide)
-* [Digital Platform User Guide Table of Contents](https://github.com/BillionOysterProject/docs/wiki/Digital-Platform-User-Guide-Table-of-Contents)
+* What is BOP?
+  * [Video: How the Billion Oyster Project Got Started](https://youtu.be/bIre6IK1YxQ)
+  * [Video: BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
+* Learning resources
+  * [BOP Remote Learning Resources](https://www.billionoysterproject.org/remote-learning)
+* Data
+  * [Field Science Manual: Oyster Restoration Station](https://drive.google.com/file/d/0Bzf_STNcTtRmZF9ldmdWRzcxdFk/view) (how data are collected)
+  * Access the data. [BOP Platform](https://platform.bop.nyc/expeditions/data) (not currrently possible)
+  * [Data How-to Guide](https://github.com/BillionOysterProject/docs/wiki/Data-How-To-Guide)
+  * [Digital Platform User Guide Table of Contents](https://github.com/BillionOysterProject/docs/wiki/Digital-Platform-User-Guide-Table-of-Contents)
+* Sample research questions
+  * [Middle school students’ research projects](https://www.flickr.com/photos/nyhf/sets/72157683204769971/page1)
 
 ## Students' work
 
