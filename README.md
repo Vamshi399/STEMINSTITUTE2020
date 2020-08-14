@@ -123,7 +123,7 @@ Presentations, code, murals etc.
   * [Allan Poe Exercise]()
 * Team 3
   * [Mural](https://bit.ly/ssi-team3-m)
-  * [Allan Poe Exercise]()
+  * [Allan Poe Exercise](https://docs.google.com/presentation/d/1gU0OoceGdDtpgVHkkbfTtVTTTuTm96xYa_cVgtYNCDY/edit#slide=id.p)
 * Team 4
   * [Mural](https://bit.ly/ssi-team4-m)
   * [Allan Poe Exercise]()
