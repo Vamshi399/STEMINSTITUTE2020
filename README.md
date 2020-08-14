@@ -117,7 +117,7 @@ Presentations, code, murals etc.
 
 * Team 1
   * [Mural](https://bit.ly/ssi-team1-m)
-  * [Allan Poe Exercise]()
+  * [Allan Poe Exercise](https://docs.google.com/spreadsheets/d/1XFUAdrDo9r3VWcfg1zBwfcl8gbG2exaA7KApdwHjw2I/edit?usp=sharing)
 * Team 2
   * [Mural](https://bit.ly/ssi-team2-m)
   * [Allan Poe Exercise]()
