@@ -41,7 +41,7 @@
 
 ## Presentations
 
-* Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. [Slides](https://docs.google.com/presentation/d/1TKxkSpPoYSH3IW7vy0Qdzj10VNR3K3VnQZzfJ4RID0E/edit?ts=5f32a779#slide=id.p)
+* Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. [Slides](https://docs.google.com/presentation/d/1TKxkSpPoYSH3IW7vy0Qdzj10VNR3K3VnQZzfJ4RID0E/edit?usp=drivesdk)
 * Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY. [Slides](https://docs.google.com/presentation/d/1h2rRI-bWT5F0bu--6OUn0IS1Fd9mxrEP4BDp3R8Hoq8/edit?usp=sharing)
 
 ## Data
